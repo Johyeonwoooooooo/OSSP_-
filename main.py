@@ -1,2 +1,2 @@
 print("Hello world")
-print("Merge Test")
+print("git Test")
